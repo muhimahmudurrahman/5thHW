@@ -1,0 +1,30 @@
+.table3 {
+    width: 50rem;
+    height: 20rem;
+    border-collapse: collapse;
+    font-size: xlarge;
+    color: black;
+    margin: 1rem;
+    font-family: sans-serif;
+}
+.table3 tr:nth-child(even){
+    background-color: rgb(229, 196, 196);
+
+}
+.table3 th,td,table{
+    border: 3px solid white;
+    font-size: 27px;
+}
+.th3{
+    background-color: rgb(126, 13, 13);
+    color: rgb(255, 255, 255);
+}
+.table3,td{
+    color: black;
+}
+.td31{
+    text-align: left;
+}
+.td32{
+    text-align: right;
+}

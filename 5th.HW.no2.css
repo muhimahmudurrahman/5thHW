@@ -1,0 +1,39 @@
+.table2 {
+    width: 30rem;
+    height: 20rem;
+    border: 0.1px solid black;
+    border-collapse: collapse;
+    font-size: xx-large;
+    color: black;
+    margin: 1rem;
+}
+
+.table2 tr:nth-child(odd) {
+    background-color: rgb(224, 224, 224);
+
+}
+
+.td2 {
+    color: black;
+    border: 0.1px solid black;
+    text-align: center;
+}
+
+.table2 {
+    border: 0.1px solid black;
+}
+
+.th2 {
+    background-color: rgb(250, 175, 175);
+    border: 0.1px solid black;
+}
+
+.th21 {
+    text-align: left;
+    background-color: rgb(250, 175, 175);
+}
+
+.td21 {
+    text-align: left;
+    border: 0.1px solid black;
+}
